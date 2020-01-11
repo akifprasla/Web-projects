@@ -1,0 +1,21 @@
+body{
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#container{
+  text-align: center;
+  text-transform: capitalize;
+}
+
+button{
+  height: 40px;
+  width: 140px;
+}
+
+#btn{
+  font-size: 20px;
+  padding: 5px;
+}
