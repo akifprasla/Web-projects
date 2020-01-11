@@ -1,0 +1,31 @@
+body{
+  min-height: 100vh;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  background: url("back1.jpg") center/cover no-repeat;
+}
+.container{
+  text-align: center;
+  border: white 2px solid;
+  height: 230px;
+  width: 290px;
+}
+#top{
+  color:white;
+}
+button{
+  background-color: inherit;
+  color: white;
+  outline: none;
+  padding: 4px;
+  margin-right: 10px;
+}
+#btns{
+margin-top: 40px;
+}
+
+#reset{
+  width: 90px;
+  margin-top: 10px;
+  }
